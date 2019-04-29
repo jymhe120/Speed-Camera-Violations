@@ -21,7 +21,7 @@ The Chicago Mayor Rahm Emanuel is a big advocate on pedestrian safety. He launch
 
 
 
-## Visulization and the Making-Of
+## Visulizations and the Making-Of
 
 
 ![Viz 1: ](https://github.com/jymhe120/MSIS2629_SelfStudyProject/blob/master/HumanVS.NaturalInfluence.png)
@@ -31,6 +31,6 @@ The Chicago Mayor Rahm Emanuel is a big advocate on pedestrian safety. He launch
 
 
 ![Viz 3: ]
-## Future Feeatures/enhancements
+## Future Feeatures/enhancements Roadmap
 
 
