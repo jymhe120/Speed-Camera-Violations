@@ -23,14 +23,15 @@ The Chicago Mayor Rahm Emanuel is a big advocate on pedestrian safety. He launch
 
 ## Visulizations and the Making-Of
 
+[Visuliazations Tableau Link](https://public.tableau.com/profile/maria7939#!/vizhome/Version13VizforMayor/Sheet2)
 
-![Viz 1: ](https://github.com/jymhe120/MSIS2629_SelfStudyProject/blob/master/HumanVS.NaturalInfluence.png)
-[Reference](https://www.wri.org/blog/2017/04/climate-science-explained-10-graphics)
-
-![Viz 2: ]
+![Viz 1: Daily Violations Overtime](https://github.com/jymhe120/Speed_Camera_Violations/blob/master/Daily%20Violations%20Overtime.png)
 
 
-![Viz 3: ]
+![Viz 2: Violaition Distribution across 77 Communities ](https://github.com/jymhe120/Speed_Camera_Violations/blob/master/Violation%20Distribution%20across%2077%20Communities.png)
+
+![Viz 3: Violations by Weekday](https://github.com/jymhe120/Speed_Camera_Violations/blob/master/Violations%20by%20Weekdays.png)
+
 ## Future Feeatures/enhancements Roadmap
 
 
