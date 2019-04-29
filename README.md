@@ -21,22 +21,23 @@ The Chicago Mayor Rahm Emanuel is a big advocate on pedestrian safety. He launch
 
 
 
-## Visulizations and the Making-Of
-[Visuliazations Tableau Link](https://public.tableau.com/profile/maria7939#!/vizhome/Version13VizforMayor/Sheet2)
+## Visualizations and the Making-Of
+[Visualiazations Tableau Link](https://public.tableau.com/profile/maria7939#!/vizhome/Version13VizforMayor/Sheet2)
 
 
-![Viz 1: Violations by Weekday](https://github.com/jymhe120/Speed_Camera_Violations/blob/master/Violations%20by%20Weekdays.png)
+After having a thorough understanding of the dataset and the ASE program, I started off my visualization by playing with different intervals of time and examined the violations overtime by year, by month, and by day of the week. I found the violation by day of week quite interesting. It looks like a smile curve with high ends on the weekend and a dip on the weekdays. I suspect that this is because people assume that speed cameras are not turned on on the weekend. In fact the speed cameras are in operation in the park zone 7 days a week during the park's opening hours. I suggest Mayor Emanuel to raise the safety awareness of the driviers by adding signage and raising weekend fines as there are more kids out playing on the weekends than on the weekdays. 
+
+![Viz 1: Violations by day of week](https://github.com/jymhe120/Speed_Camera_Violations/blob/master/Violations%20by%20Day%20of%20Week.png)
 
 
-
-From the data exploration, I found that the number of violations are decreasing over the years. I decided to take a look at the daily violations overtime and found corresponding trend. The daily violation over time is quite noisy with all the dips and spikes. Therefore, I smoothed the line using the moving average and set the caluculation type to previous 7 days since we discovered a strong weekly trend in the graph above. I also added a trend line to stress the downward trend and to make the message clear: The Automated Speed Enforcement program (ASE) is a success. The speed violations in the Children's Safety Zone decrease steadily overtime. 
+From the data exploration, I found that the number of violations are decreasing over the years. I decided to take a look at the daily violations overtime and found corresponding trend. The daily violation over time is quite noisy with all the dips and spikes. Therefore, I smoothed the line using the moving average and set the caluculation type to previous 7 days since we discovered a strong weekly trend in the graph above. I also added a trend line to stress the downward trend and to make the message clear: The Automated Speed Enforcement program (ASE) is a success and should be continued. The speed violations in the Children's Safety Zone decrease steadily overtime. 
 
 ![Viz 2: Daily Violations Overtime](https://github.com/jymhe120/Speed_Camera_Violations/blob/master/Daily%20Violations%20Overtime.png)
 
 
-
+After confirming the success of the ASE program, I would like to offer some suggestions to improve the program. I merged the [Census Data - Selected socioeconomic indicators in Chicago, 2008 – 2012](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2) dataset with the current one using community area number and community areas as keys. I was able to plot the number of speed violations on a map showing the median income per capita of each community area. The color indicates the income level of the area and the size of the circle suggests the scale of speed violations. It seems that most of the violations take place in Chicago's low income communities. This is potentially problematic as low income household cannot afford to pay the fine and thus cause negative publicity for the mayor. I advise Mayor Emanue to allow budget plan or instalment for the violators and to offer appeals for first time violators.
 ![Viz 2: Violaition Distribution across 77 Communities ](https://github.com/jymhe120/Speed_Camera_Violations/blob/master/Violation%20Distribution%20across%2077%20Communities.png)
-I merged the [Census Data - Selected socioeconomic indicators in Chicago, 2008 – 2012](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2)
+
 
 
 ## Future Feeatures/enhancements Roadmap
