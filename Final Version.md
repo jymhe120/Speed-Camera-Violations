@@ -49,4 +49,3 @@ I am not satisfied with the [original visualization](https://github.com/jymhe120
 ![Viz 3: Violation Distribution across 77 Communities ](https://github.com/jymhe120/Speed_Camera_Violations/blob/master/P_Spd%20vio%20distribution%20across%2077%20communities.png)
 
 
-
