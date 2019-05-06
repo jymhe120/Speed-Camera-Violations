@@ -38,7 +38,7 @@ From data exploration, I found that the number of violations is decreasing over 
 
 After confirming the success of the ASE program, I would like to offer some suggestions to improve the program. I merged the [Census Data - Selected socioeconomic indicators in Chicago, 2008 – 2012](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2) dataset with the current one using community area number and community areas as keys. I was able to plot the number of speed violations on a map showing the median income per capita of each community area. The color indicates the income level of the area and the size of the circle suggests the scale of speed violations. It seems that most of the violations take place in Chicago's low-income communities. This is potentially problematic as a low-income household cannot afford to pay the fine and thus cause negative publicity for the mayor. I advise Mayor Emanuel to allow budget plan or installment for the violators and to offer appeals for first-time violators.
 
-![Viz 3: Violation Distribution across 77 Communities ](https://github.com/jymhe120/Speed_Camera_Violations/blob/master/Violation%20Distribution%20across%2077%20Communities.png)
+![Viz 3: Violation Distribution across 77 Communities ](https://github.com/jymhe120/Speed_Camera_Violations/blob/master/Violation%20distribution%20across%2077%20communities%20.png)
 
 
 
