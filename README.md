@@ -2,7 +2,7 @@
 This is a MSIS2629 Data Visualization class project on Chicago Speed Camera Violations. 
 
 ## Dataset Description
-[Chicago Automated Speed Enforcement Program（ASE) data}](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4)
+[Chicago Automated Speed Enforcement Program（ASE) data](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4)
 
 ## Visualizations Write-up
 [First Version](https://github.com/jymhe120/Speed_Camera_Violations/blob/master/First%20Version.md)
