@@ -1,4 +1,4 @@
-# Speed_Camera_Violations
+# Speed Camera Violations
 This is a MSIS2629 Data Visualization class project on Chicago Speed Camera Violations. 
 
 ## Dataset Description
